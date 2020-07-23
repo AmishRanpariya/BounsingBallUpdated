@@ -9,7 +9,7 @@ function setup() {
   y = int(random(r, height - r));
   sy = random(5, 24);
   sx = random(5, 24);
-  
+  //amish
   fill(0);
   stroke(255,0,255);
   strokeWeight(r / 20);
